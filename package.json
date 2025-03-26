@@ -3,13 +3,13 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-     "start": "serve docs/.vitepress/dist"
+    "start": "serve docs/.vitepress/dist"
   },
   "devDependencies": {
     "vitepress": "^1.6.3",
     "esbuild": ">=0.25.0"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
   }
-},
-"dependencies": {
-  "serve": "^14.2.0"
 }
