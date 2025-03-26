@@ -1,0 +1,12 @@
+node_modules/
+./dist
+./coverage
+./.nyc_output
+./.vscode
+./.idea
+./.env
+./vitepress/*
+./vitepress/node_modules
+./docs/.vitepress/** */
+.vitepress/
+.DS_Store
