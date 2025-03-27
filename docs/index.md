@@ -237,7 +237,7 @@ Nous avons le privilège de collaborer avec un large éventail de clients :
 > *"FICO SARL a transformé notre chaîne logistique grâce à ses solutions innovantes. Leur réactivité et leur expertise ont fait toute la différence."*  
 > — **Jean-Rene Gangnito, Directeur Logistique**
 
-> *"Le projet de construction réalisé par FICO SARL a non seulement respecté les délais, mais a aussi surpassé nos attentes en matière de qualité et de durabilité."*  
-> — **Marie Kabila, Chef de Projet**
+> *"L’application WiseBudget développée par FICO SARL a répondu pleinement à nos attentes. L’équipe a fait preuve de rigueur, de réactivité et d’un excellent sens du détail. Un outil moderne, fiable et parfaitement adapté à nos besoins."*  
+> — **Nathan Tuala, Chef de Projet**
 
 ---
