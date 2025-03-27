@@ -235,7 +235,7 @@ Nous avons le privilège de collaborer avec un large éventail de clients :
 ## Témoignages
 
 > *"FICO SARL a transformé notre chaîne logistique grâce à ses solutions innovantes. Leur réactivité et leur expertise ont fait toute la différence."*  
-> — **Jean Dupont, Directeur Logistique**
+> — **Jean-Rene Gangnito, Directeur Logistique**
 
 > *"Le projet de construction réalisé par FICO SARL a non seulement respecté les délais, mais a aussi surpassé nos attentes en matière de qualité et de durabilité."*  
 > — **Marie Kabila, Chef de Projet**
